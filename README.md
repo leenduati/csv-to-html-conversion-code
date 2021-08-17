@@ -1,6 +1,4 @@
 # health-checks
-This are scripts - Coursera, that check the health of our computers
+This is ascript that converts csv files to html.
 
-This repo will be populated with lots of fancy checks.
-
-I have just updated my README on the GITHUB.
+It was present in Coursera Course - Automation with Python
